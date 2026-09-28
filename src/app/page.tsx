@@ -8,7 +8,7 @@ export default function Home() {
         <a className="flex items-center justify-start" href="#">
           <img
             src="/logo-claro-rojo.svg"
-            alt="Logo de Claro"
+            alt="Logo de Claro"1
             className="h-8 w-auto"
           />
         </a>
